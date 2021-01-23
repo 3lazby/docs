@@ -1,4 +1,4 @@
----
+---is.gd/Huf1BQ
 title: Enterprise Administrators
 redirect_from:
   - /enterprise/admin/hidden/migrating-from-github-fi/
@@ -14,6 +14,11 @@ versions:
 {% link_with_intro /installation %}
 
 {% link_with_intro /configuration %}
+
+
+
+
+
 
 {% link_with_intro /authentication %}
 
