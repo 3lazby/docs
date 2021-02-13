@@ -11,3 +11,4 @@ versions:
   github-ae: '*'
 ---
 
+ftp://ftp.isi.edu/in-notes/iana/assignments/character-sets
